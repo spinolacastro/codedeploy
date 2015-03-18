@@ -1,4 +1,2 @@
 # codedeploy
 Teste
-
-asdf
